@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # ### Live Preview Here
-[Click here](madhukar-k.github.io/Marvel-API-project/ "Click here"
+[Click here](madhukar-k.github.io/Marvel-API-project/ )
